@@ -1,0 +1,6 @@
+{
+	"global": "Ractive.transitions.slide",
+	"description": "Slide transition plugin for Ractive.js",
+	"version": "0.3.0",
+	"author": "Rich Harris"
+}

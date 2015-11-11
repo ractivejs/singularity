@@ -1,0 +1,6 @@
+{
+	"global": "Ractive.transitions.fade",
+	"description": "Fade transition plugin for Ractive.js",
+	"version": "0.2.1",
+	"author": "Rich Harris"
+}

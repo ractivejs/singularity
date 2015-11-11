@@ -1,0 +1,7 @@
+{
+	"global": "Ractive.transitions.scale",
+	"description": "Scale transition plugin for Ractive.js",
+	"version": "0.1.0",
+	"author": "Ayman Mackouly",
+	"license": "WTFPL"
+}

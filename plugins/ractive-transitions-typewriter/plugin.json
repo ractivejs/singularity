@@ -1,0 +1,6 @@
+{
+	"global": "Ractive.transitions.typewriter",
+	"description": "Typewriter transition plugin for Ractive.js",
+	"version": "0.1.2",
+	"author": "Rich Harris"
+}

@@ -1,4 +1,6 @@
 {
 	"global": "Ractive.transitions.fly",
-	"version": "0.3.0"
+	"description": "Fly transition plugin for Ractive.js",
+	"version": "0.3.0",
+	"author": "Rich Harris"
 }
